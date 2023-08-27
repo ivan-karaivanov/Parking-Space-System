@@ -17,14 +17,6 @@ The Parking Booking System is a simple Java application that allows users to boo
 4. Build and run the `ParkingBookingSystemGUI.java` file.
 5. The application GUI will open, allowing you to book parking spaces.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-*Booking form for entering license plate number, selecting a parking space, and duration.*
-
-![Screenshot 2](screenshots/screenshot2.png)
-*Booking confirmation displaying the details of the booked parking space.*
-
 ## Dependencies
 
 The following dependencies are required to build and run the Parking Booking System:
